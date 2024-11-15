@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+    <album>
+        <title>Album One</title>
+        <artist>Artist A</artist>
+        <year>2020</year>
+        <genre>Pop</genre>
+        <tracklist>
+            <track>
+                <title>Song A1</title>
+                <length>3:45</length>
+            </track>
+            <track>
+                <title>Song A2</title>
+                <length>4:10</length>
+            </track>
+        </tracklist>
+    </album>
+    <album>
+        <title>Album Two</title>
+        <artist>Artist B</artist>
+        <year>2021</year>
+        <genre>Rock</genre>
+        <tracklist>
+            <track>
+                <title>Song B1</title>
+                <length>4:20</length>
+            </track>
+            <track>
+                <title>Song B2</title>
+                <length>3:50</length>
+            </track>
+        </tracklist>
+    </album>
+    <!-- Добавьте больше альбомов по необходимости -->
+</albums>
